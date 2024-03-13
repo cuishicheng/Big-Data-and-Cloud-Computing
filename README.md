@@ -11,6 +11,6 @@
 
 ### 实验四：数据可视化
 
-### 实验五：Sentiment Analysis of IMDB Movie Reviews 实战1
+### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
-### 实验六：Sentiment Analysis of IMDB Movie Reviews 实战2
+### 实验六：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战2
