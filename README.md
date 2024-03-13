@@ -6,6 +6,14 @@
 
 ### 实验一：GitHub基础操作
 
+目标：掌握GitHub代码云平台基础操作。
+
+- 注册GitHub账号
+- 创建Repo
+- 基于MarkDown编写README
+- 提交代码
+- Fork项目
+
 ### 实验二：Kaggle基础操作
 
 ### 实验三：自然语言处理Word2Vec
