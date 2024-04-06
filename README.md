@@ -15,7 +15,7 @@
 - 创建Repo
 - 基于MarkDown编写README.md
 - 提交代码
-- Fork项目
+- Fork&Star项目
 
 ### 实验二：Kaggle基础操作
 
