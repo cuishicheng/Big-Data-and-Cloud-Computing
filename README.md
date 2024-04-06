@@ -11,7 +11,7 @@
 目标：掌握GitHub代码云平台基础操作。
 
 实验内容：
-- 注册GitHub账号
+- 创建GitHub账号
 - 创建Repo
 - 基于MarkDown编写README.md
 - 提交代码
@@ -22,7 +22,7 @@
 目标：掌握Kaggle机器学习云平台基础操作。
 
 实验内容：
-- Kaggle账号
+- 创建Kaggle账号
 - 新建Notebook
 - 新建Dataset
 - 运行Python代码
