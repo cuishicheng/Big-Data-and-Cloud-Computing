@@ -15,7 +15,8 @@
 - 创建Repo
 - 基于MarkDown编写README.md
 - 提交代码
-- Fork&Star项目
+- Fork&Star Repo
+- 基于Repo改写main/test.py
 
 ### 实验二：Kaggle基础操作
 
