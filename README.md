@@ -27,9 +27,9 @@
 - 新建Notebook
 - 新建Dataset
 - 编写并运行Python代码，实现：
-  1. 快速排序
-  2. 九九乘法表
-  3. 和Fibonacci数列
+  - 快速排序
+  - 九九乘法表
+  - 和Fibonacci数列
 
 ### 实验三：自然语言处理Word2Vec
 
