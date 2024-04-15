@@ -26,10 +26,10 @@
 - 创建Kaggle账号
 - 新建Notebook
 - 新建Dataset
-- 运行Python代码，实现
+- 编写并运行Python代码，实现：
   1. 快速排序
-  1. 九九乘法表
-  1. 和Fibonacci数列
+  2. 九九乘法表
+  3. 和Fibonacci数列
 
 ### 实验三：自然语言处理Word2Vec
 
