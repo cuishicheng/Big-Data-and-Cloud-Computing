@@ -45,7 +45,7 @@
 - https://radimrehurek.com/gensim/auto_examples/core/run_similarity_queries.html
 - https://radimrehurek.com/gensim/auto_examples/core/run_core_concepts.html
 
-### 实验四：数据可视化
+### 实验四：云平台词向量数据可视化方法
 
 目标：了解在云平台下的词向量数据可视化方法
 
