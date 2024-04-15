@@ -27,9 +27,9 @@
 - 新建Notebook
 - 新建Dataset
 - 编写并运行Python代码，实现：
-  - 快速排序
-  - 九九乘法表
-  - Fibonacci数列
+ - 快速排序
+ - 九九乘法表
+ - Fibonacci数列
 
 ### 实验三：云平台自然语言处理技术
 
