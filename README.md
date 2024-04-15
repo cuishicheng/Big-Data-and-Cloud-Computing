@@ -29,7 +29,7 @@
 - 编写并运行Python代码，实现：
   - 快速排序
   - 九九乘法表
-  - 和Fibonacci数列
+  - Fibonacci数列
 
 ### 实验三：自然语言处理Word2Vec
 
