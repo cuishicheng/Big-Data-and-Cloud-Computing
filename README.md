@@ -55,6 +55,9 @@
 - 基于t-SNE算法将词向量降维
 - 基于matplotlib将目标词和对应Top-K相关词进行可视化展示
 
+提示：
+- `from gensim.test.utils import datapath`
+
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
