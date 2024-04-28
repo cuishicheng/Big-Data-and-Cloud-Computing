@@ -65,6 +65,9 @@
 - https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
 - https://matplotlib.org/
 
+例子：
+![Image text](https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png)
+
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
