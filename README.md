@@ -50,7 +50,7 @@
 目标：了解在云平台下的词向量数据可视化方法
 
 实验内容：
-- 创建word2vec词向量模型，自由选择N个目标词
+- 加载/创建word2vec词向量模型，可根据Corpus，自由选择N个目标词，例如 `keys = ['game', 'terrorist', 'farmers', 'mind']`
 - 根据词向量计算相似度，并输出目标词的Top-K相关词
 - 基于t-SNE算法将词向量降维
 - 基于matplotlib将目标词和对应Top-K相关词进行可视化展示
