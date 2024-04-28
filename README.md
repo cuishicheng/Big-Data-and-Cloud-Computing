@@ -66,7 +66,7 @@
 - https://matplotlib.org/
 
 例子：
-![Image text](https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png)
+![Image text](https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png=500*500)
 
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
