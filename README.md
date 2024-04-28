@@ -67,7 +67,7 @@
 
 例子：
 
-<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png" width="500" height="400">
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png" width="600" height="400">
 
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
