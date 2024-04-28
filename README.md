@@ -57,8 +57,13 @@
 
 提示：
 - `from gensim.test.utils import datapath`，`datapath('word2vec_pre_kv_c')`
-- `from gensim.models import KeyedVectors`，`KeyedVectors.load_word2vec_format`
+- `from gensim.models import KeyedVectors`，`KeyedVectors.load_word2vec_format`，`most_similar(word, topn=30)`
 - `from sklearn.manifold import TSNE`
+
+参考：
+- https://radimrehurek.com/gensim/models/keyedvectors.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
+- https://matplotlib.org/
 
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
