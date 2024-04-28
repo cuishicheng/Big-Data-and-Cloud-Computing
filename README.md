@@ -56,7 +56,9 @@
 - 基于matplotlib将目标词和对应Top-K相关词进行可视化展示
 
 提示：
-- `from gensim.test.utils import datapath`
+- `from gensim.test.utils import datapath`，`datapath('word2vec_pre_kv_c')`
+- `from gensim.models import KeyedVectors`，`KeyedVectors.load_word2vec_format`
+- `from sklearn.manifold import TSNE`
 
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
