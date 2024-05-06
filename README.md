@@ -67,12 +67,30 @@
 
 例子：
 
-<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example.png" width="600" height="400">
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example4.png" width="600" height="400">
 
 ### 实验五：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战1
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
 
+实验内容：
+- 导入数据集，输出数据集描述，并展示部分数据样本
+- 以8:2方式将数据分为训练集与测试集（注意文本对应的情感标签需一并处理）
+- 文本数据预处理，包括移除stopwords、html等噪声文本
+- 选取合适的自然语言处理模型对文本进行处理，例如BOW模型、TF-IDF模型、word2vec模型等
+
 ### 实验六：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战2
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
+
+实验内容：
+- 针对数据集建立预测模型
+- 在训练集上训练模型
+- 在测试集上输出预测结果，其中评价指标包括F1-Score，Accuracy
+- 选做：可视化展示正面/负面评价关键词
+
+例子：
+
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-1.png" width="600" height="400">
+
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-2.png" width="600" height="400">
