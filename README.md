@@ -79,6 +79,9 @@
 - 文本数据预处理，包括移除stopwords、html等噪声文本
 - 选取合适的自然语言处理模型对文本进行处理，例如BOW模型、TF-IDF模型、word2vec模型等
 
+参考：
+- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 ### 实验六：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战2
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
