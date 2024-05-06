@@ -91,6 +91,6 @@
 
 例子：
 
-<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-1.png" width="600" height="400">
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-1.png" width="800" height="400">
 
-<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-2.png" width="600" height="400">
+<img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-2.png" width="800" height="400">
