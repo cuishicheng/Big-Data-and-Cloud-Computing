@@ -89,6 +89,9 @@
 - 在测试集上输出预测结果，其中评价指标包括F1-Score，Accuracy
 - 选做：可视化展示正面/负面评价关键词
 
+参考：
+- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 例子：
 
 <img src="https://github.com/cuishicheng/Big-Data-and-Cloud-Computing/blob/main/main/example6-1.png" width="800" height="400">
